@@ -1,0 +1,137 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "redis-data-dotnet/1.0.0": {
+        "dependencies": {
+          "ServiceStack.Redis": "6.8.0"
+        },
+        "runtime": {
+          "redis-data-dotnet.dll": {}
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "ServiceStack.Common/6.8.0": {
+        "dependencies": {
+          "ServiceStack.Interfaces": "6.8.0",
+          "ServiceStack.Text": "6.8.0",
+          "System.Memory": "4.5.5"
+        },
+        "runtime": {
+          "lib/net6.0/ServiceStack.Common.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.8.0.0"
+          }
+        }
+      },
+      "ServiceStack.Interfaces/6.8.0": {
+        "runtime": {
+          "lib/net6.0/ServiceStack.Interfaces.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.8.0.0"
+          }
+        }
+      },
+      "ServiceStack.Redis/6.8.0": {
+        "dependencies": {
+          "ServiceStack.Common": "6.8.0",
+          "ServiceStack.Interfaces": "6.8.0",
+          "ServiceStack.Text": "6.8.0"
+        },
+        "runtime": {
+          "lib/net6.0/ServiceStack.Redis.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.8.0.0"
+          }
+        }
+      },
+      "ServiceStack.Text/6.8.0": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0",
+          "System.Diagnostics.DiagnosticSource": "6.0.0",
+          "System.Memory": "4.5.5"
+        },
+        "runtime": {
+          "lib/net6.0/ServiceStack.Text.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.8.0.0"
+          }
+        }
+      },
+      "System.Diagnostics.DiagnosticSource/6.0.0": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        }
+      },
+      "System.Memory/4.5.5": {},
+      "System.Runtime.CompilerServices.Unsafe/6.0.0": {}
+    }
+  },
+  "libraries": {
+    "redis-data-dotnet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "ServiceStack.Common/6.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VZfWZ085pWTR8FvwY/3GeQrMo3B/kXOsgmO580Mg34qXjOaNHa4PW5O2CRd5o7SwSibsOt7nsxvyFuQBhMHyhw==",
+      "path": "servicestack.common/6.8.0",
+      "hashPath": "servicestack.common.6.8.0.nupkg.sha512"
+    },
+    "ServiceStack.Interfaces/6.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nuGklCCNPlCtJU0UQ0q5jeg3J+djI28aWWBTwH8GvTNC3E74cH+fS2aUiukiOOwW0X/Z3oIPdWHPZi4yiv77Kg==",
+      "path": "servicestack.interfaces/6.8.0",
+      "hashPath": "servicestack.interfaces.6.8.0.nupkg.sha512"
+    },
+    "ServiceStack.Redis/6.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ogm3pJNrenm4EVyKgyaHRqiwy89kr3tVVnv8Kly9aldPXeF+nl3coebBU3uhqRnrJQ2gwS5noR6TQtBgR2qKMA==",
+      "path": "servicestack.redis/6.8.0",
+      "hashPath": "servicestack.redis.6.8.0.nupkg.sha512"
+    },
+    "ServiceStack.Text/6.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SrygdfFzgeUDfr61Rcgrb3wKvIu5q+SEbsWsu5rF0WXxWjhzkguD5dHBvko8TGKrczBPbe6cNEE5v3/iYDudRA==",
+      "path": "servicestack.text/6.8.0",
+      "hashPath": "servicestack.text.6.8.0.nupkg.sha512"
+    },
+    "System.Diagnostics.DiagnosticSource/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-frQDfv0rl209cKm1lnwTgFPzNigy2EKk1BS3uAvHvlBVKe5cymGyHO+Sj+NLv5VF/AhHsqPIUUwya5oV4CHMUw==",
+      "path": "system.diagnostics.diagnosticsource/6.0.0",
+      "hashPath": "system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512"
+    },
+    "System.Memory/4.5.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XIWiDvKPXaTveaB7HVganDlOCRoj03l+jrwNvcge/t8vhGYKvqV+dMv6G4SAX2NoNmN0wZfVPTAlFwZcZvVOUw==",
+      "path": "system.memory/4.5.5",
+      "hashPath": "system.memory.4.5.5.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg==",
+      "path": "system.runtime.compilerservices.unsafe/6.0.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    }
+  }
+}

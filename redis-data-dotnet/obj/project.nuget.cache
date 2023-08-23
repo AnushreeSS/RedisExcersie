@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "lTq1kvwUCGwVnqz+AzrwS+ZYoJcKCMH7SyEyFsEJgoU4J29FL1Vtxtfxp8/w2C26E7hJxYyeSW+zbt2VzzfY7Q==",
+  "success": true,
+  "projectFilePath": "I:\\redis-data-dotnet\\redis-data-dotnet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anush\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\anush\\.nuget\\packages\\servicestack.common\\6.8.0\\servicestack.common.6.8.0.nupkg.sha512",
+    "C:\\Users\\anush\\.nuget\\packages\\servicestack.interfaces\\6.8.0\\servicestack.interfaces.6.8.0.nupkg.sha512",
+    "C:\\Users\\anush\\.nuget\\packages\\servicestack.redis\\6.8.0\\servicestack.redis.6.8.0.nupkg.sha512",
+    "C:\\Users\\anush\\.nuget\\packages\\servicestack.text\\6.8.0\\servicestack.text.6.8.0.nupkg.sha512",
+    "C:\\Users\\anush\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\anush\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\anush\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

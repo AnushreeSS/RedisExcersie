@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6UG0Aiun8AYFTYRYlM1PMncQr/ktacM2y05vNw0JHQuNGreSE1cIJYxmh30zVV0yNQcrIiYP1DGvnGFTNUdkmA==",
+  "success": true,
+  "projectFilePath": "I:\\pubsub\\redis-pub\\redis-pub.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anush\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.2\\pipelines.sockets.unofficial.2.2.2.nupkg.sha512",
+    "C:\\Users\\anush\\.nuget\\packages\\stackexchange.redis\\2.6.104\\stackexchange.redis.2.6.104.nupkg.sha512",
+    "C:\\Users\\anush\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
